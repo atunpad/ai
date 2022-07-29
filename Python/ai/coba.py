@@ -1,0 +1,1 @@
+print(" ini percoabaan py dan git ")
